@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌱 SeedToServe – Empowering Farmers Through Direct E-Commerce
 
 **SeedToServe** is an e-commerce platform built to empower farmers in India by allowing them to list their products directly for customers to purchase — eliminating middlemen and ensuring fair prices.  
@@ -149,3 +150,6 @@ Integrated Razorpay Payment Gateway (backend + frontend).
 
 If you like this project, please give it a ⭐ on GitHub!
 Your support motivates continued learning and improvements. 🌟
+=======
+# SEED2SEVRE
+>>>>>>> fc45f6304951cb9a106c07cab5917e1aa0122e44
